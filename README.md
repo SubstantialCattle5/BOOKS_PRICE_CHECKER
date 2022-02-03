@@ -23,3 +23,13 @@ inside the a_scrape.py , self.url file.
 <code>sender = os.getenv('remail')</code>    
 <code> myemail, mypassword = os.getenv('semail'),os.getenv('spw')</code>
 
+### Modules  
+1. _BeautifulSoup_ 
+2. _requests_ 
+3. _smtplib_
+4. _os_ 
+5. _dotenv_
+
+### API 
+1. _Twillio(for messaging)_
+

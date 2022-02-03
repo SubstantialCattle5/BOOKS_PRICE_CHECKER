@@ -1,7 +1,7 @@
 import smtplib
 from twilio.rest import Client
 import os
-from dotenv import load_dotenv  # pip install python-dotenv
+from dotenv import load_dotenv
 
 load_dotenv("E:\PROJECTS\python\local_env\\amazon_book\\.env.txt")
 
